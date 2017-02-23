@@ -18,3 +18,5 @@ Important notes:
 - If you cant add Photos or Photos the reason most likely you have not given access to it. Please go to Settings --> Privacy --> Photos or Photos --> Find Picflix and make sure it's enabled. 
 
 - If you are making a slideshow for Snapchat please note to adjust timer between 5 to 10 seconds. For Instagram and Facebook it can be anywhere between 5 to 60 seconds.
+
+https://itunes.apple.com/us/app/picflix-slideshow-maker-with-music-pictures-videos/id843201980?mt=8
