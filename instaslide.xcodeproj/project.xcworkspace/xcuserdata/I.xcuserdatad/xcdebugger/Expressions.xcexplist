@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PreviewController nextFrameInBGRCGBitmapContext:]:PreviewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gPreviewImage">
+            </PersistentString>
+            <PersistentString
+               value = "mIsEncoding">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__51-[PreviewController mediaPicker:didPickMediaItems:]_block_invoke:PreviewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "assetURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeController moveToPhotoChooseController]:HomeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mChosenImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__44-[MSImageMovieEncoder startRequestingFrames]_block_invoke:MSImageMovieEncoder.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastTime">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PreviewController mediaPicker:didPickMediaItems:]:PreviewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PhotoChooseController viewDidLoad]:PhotoChooseController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mChosenImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

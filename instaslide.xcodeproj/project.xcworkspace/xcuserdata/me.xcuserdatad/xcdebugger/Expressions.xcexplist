@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PhotoChooseController refreshScrollView]:PhotoChooseController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mChosenImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__37-[PreviewController animateForIndex:]_block_invoke49:PreviewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+            <PersistentString
+               value = "mImageViews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PhotoChooseController elcImagePickerController:didFinishPickingMediaWithInfo:]:PhotoChooseController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__37-[PreviewController animateForIndex:]_block_invoke53:PreviewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mImageCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__37-[PreviewController animateForIndex:]_block_invoke:PreviewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mGapInterval">
+            </PersistentString>
+            <PersistentString
+               value = "mImageCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PreviewController animateForIndex:]:PreviewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mCurrentAnimType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
